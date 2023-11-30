@@ -2,9 +2,6 @@
 
 - 페이스북, 구글 로그인 및 기본 시큐리티 연동
 
-### 스프링 시큐리티 기본 V1 참고
-
-- https://github.com/codingspecialist/Sringboot-Security-Basic-V1
 
 ### JPA method names 참고
 
@@ -18,9 +15,9 @@
 
 ```yml
 server:
-  port: 8080
+  port: 8090
   servlet:
-    context-path: /
+    context-path: /app
     encoding:
       charset: UTF-8
       enabled: true
